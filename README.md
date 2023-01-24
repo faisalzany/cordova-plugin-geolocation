@@ -1,4 +1,4 @@
-cordova-plugin-background-geolocation
+## cordova-plugin-background-geolocation
 
 ## Submitting issues
 
