@@ -1,8 +1,4 @@
-# @mauron85/cordova-plugin-background-geolocation
-
-## We're moving
-
-Npm package is now [@mauron85/cordova-plugin-background-geolocation](https://www.npmjs.com/package/@mauron85/cordova-plugin-background-geolocation)!
+cordova-plugin-background-geolocation
 
 ## Submitting issues
 
